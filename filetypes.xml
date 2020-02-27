@@ -11,6 +11,7 @@
       <mapping pattern="recommendedBand" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="signed" type="PLAIN_TEXT" />
+      <mapping pattern="wine_page_information.rb" type="Ruby" />
     </extensionMap>
   </component>
 </application>
