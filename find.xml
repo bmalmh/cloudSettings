@@ -3,7 +3,6 @@
     <option name="customScope" value="Project except tests" />
     <option name="defaultScopeName" value="Project except tests" />
     <option name="SEARCH_SCOPE" value="Project except tests" />
-    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
