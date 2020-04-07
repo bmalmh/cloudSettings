@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project except tests" />
+    <option name="defaultScopeName" value="Project except tests" />
+    <option name="SEARCH_SCOPE" value="Project except tests" />
+    <option name="FILE_MASK" value="*.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,8 +28,8 @@
     <mask>index.html.haml</mask>
     <mask>*.haml</mask>
     <mask>*.js</mask>
-    <mask>*.rb</mask>
     <mask>*.test.js</mask>
     <mask>*.scss</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
