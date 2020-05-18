@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*controller_spec.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,12 +26,13 @@
     <mask>*.story.js</mask>
     <mask>*.en.yml</mask>
     <mask>*</mask>
-    <mask>*_spec.rb</mask>
     <mask>index.html.haml</mask>
     <mask>*.test.js</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
     <mask>*.haml</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*controller_spec.rb</mask>
   </component>
 </application>
