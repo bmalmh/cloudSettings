@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,7 +30,6 @@
     <mask>*.en.yml</mask>
     <mask>*</mask>
     <mask>index.html.haml</mask>
-    <mask>*.test.js</mask>
     <mask>*_spec.rb</mask>
     <mask>*controller_spec.rb</mask>
     <mask>*.scss</mask>
@@ -37,5 +37,6 @@
     <mask>*.yml</mask>
     <mask>*.rb</mask>
     <mask>*.haml</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
