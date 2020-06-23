@@ -32,8 +32,8 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.haml</mask>
     <mask>*.rb</mask>
     <mask>*.test.js</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
