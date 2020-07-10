@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,!*.test.js" />
+    <option name="FILE_MASK" value="_spec.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +17,6 @@
     <mask>*.js*</mask>
     <mask>index.js</mask>
     <mask>*.presentational.js</mask>
-    <mask>_spec.rb</mask>
     <mask>*haml</mask>
     <mask>*spec.rb</mask>
     <mask>*.html.haml</mask>
@@ -37,5 +34,6 @@
     <mask>*.test.js</mask>
     <mask>*.haml</mask>
     <mask>*.js,!*.test.js</mask>
+    <mask>_spec.rb</mask>
   </component>
 </application>
