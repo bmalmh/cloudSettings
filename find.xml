@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +22,6 @@
     <mask>*.en.yml</mask>
     <mask>*</mask>
     <mask>index.html.haml</mask>
-    <mask>*_spec.rb</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.rb,!*_spec.rb</mask>
@@ -34,5 +32,6 @@
     <mask>_spec.rb</mask>
     <mask>*.js</mask>
     <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
