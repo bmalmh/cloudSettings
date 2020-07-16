@@ -8892,6 +8892,21 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-6.7.288.46.1-x86_64-darwin-15/vendor" />
       </SOURCES>
     </library>
+    <library name="libv8-7.3.492.27.1-x86_64-darwin (v7.3.492.27.1, rbenv: 2.4.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/gems/libv8-7.3.492.27.1-x86_64-darwin-19/vendor" />
+      </SOURCES>
+    </library>
     <library name="libv8-7.3.492.27.1-x86_64-darwin (v7.3.492.27.1, rbenv: 2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
