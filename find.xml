@@ -5,7 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -30,11 +29,11 @@
     <mask>_spec.rb</mask>
     <mask>*.haml</mask>
     <mask>*.js</mask>
-    <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.test.js</mask>
+    <mask>*.js,!*.test.js,!*.story.js</mask>
   </component>
 </application>
