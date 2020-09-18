@@ -29,7 +29,6 @@
     <mask>*controller_spec.rb</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>_spec.rb</mask>
-    <mask>*.haml</mask>
     <mask>*.js</mask>
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*</mask>
@@ -37,5 +36,6 @@
     <mask>*_spec.rb</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>*.rb</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
