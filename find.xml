@@ -27,11 +27,11 @@
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
-    <mask>*.rb</mask>
     <mask>*.scss</mask>
     <mask>*_spec.rb</mask>
     <mask>*.haml</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
