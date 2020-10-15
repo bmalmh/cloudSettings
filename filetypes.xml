@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="DashboardModalSkeleton" type="JavaScript" />
       <mapping pattern="externalLogin.js" type="JavaScript" />
-      <mapping pattern="ruby_web_development" type="PLAIN_TEXT" />
+      <mapping pattern="DashboardModalSkeleton" type="JavaScript" />
       <mapping pattern="premium-modal-button" type="PLAIN_TEXT" />
-      <mapping pattern=".keep" type="PLAIN_TEXT" />
-      <mapping pattern="VivinoRenderer.rb" type="PLAIN_TEXT" />
-      <mapping pattern="signed_in_modal" type="PLAIN_TEXT" />
-      <mapping pattern="sitemap_generation.rb" type="PLAIN_TEXT" />
-      <mapping pattern="configuration" type="PLAIN_TEXT" />
-      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="show" type="PLAIN_TEXT" />
+      <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="signed_in_modal" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="configuration" type="PLAIN_TEXT" />
       <mapping pattern="recommendedBand" type="PLAIN_TEXT" />
+      <mapping pattern="ruby_web_development" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="signed" type="PLAIN_TEXT" />
       <mapping pattern="wine_page_information.rb" type="Ruby" />
+      <removed_mapping pattern="VivinoRenderer.rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sitemap_generation.rb" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
