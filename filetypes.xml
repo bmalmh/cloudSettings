@@ -5,10 +5,10 @@
       <mapping pattern="externalLogin.js" type="JavaScript" />
       <mapping pattern="ruby_web_development" type="PLAIN_TEXT" />
       <mapping pattern="premium-modal-button" type="PLAIN_TEXT" />
-      <mapping pattern="sitemap_generation.rb" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="VivinoRenderer.rb" type="PLAIN_TEXT" />
       <mapping pattern="signed_in_modal" type="PLAIN_TEXT" />
+      <mapping pattern="sitemap_generation.rb" type="PLAIN_TEXT" />
       <mapping pattern="configuration" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
       <mapping pattern="show" type="PLAIN_TEXT" />
