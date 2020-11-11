@@ -5639,6 +5639,45 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-57307a20f169/.github" />
       </excluded>
     </library>
+    <library name="comfortable_mexican_sofa (v2.0.19@65e091, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/db" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/public" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/comfortable-mexican-sofa-65e091724668/.github" />
+      </excluded>
+    </library>
     <library name="comfy_bootstrap_form (v4.0.7, rbenv: 2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18834,6 +18873,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/ruby-lib-api-4ab78d60337b/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/ruby-lib-api-4ab78d60337b/.github" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.5/lib/ruby/gems/2.4.0/bundler/gems/ruby-lib-api-4ab78d60337b/.git_tools" />
+      </excluded>
+    </library>
+    <library name="vivino-lib-api (v8.18.0@4e3848, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git_tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git_tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-4e38488605df/.git_tools" />
       </excluded>
     </library>
     <library name="vivino-lib-api (v8.18.0@567c93, rbenv: 2.7.1) [gem]" type="rubylib">
