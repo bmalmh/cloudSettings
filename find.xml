@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -31,8 +30,8 @@
     <mask>*.js</mask>
     <mask>*_spec.rb</mask>
     <mask>*.haml</mask>
-    <mask>*.rb</mask>
     <mask>*.test.js</mask>
     <mask>*.scss</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
