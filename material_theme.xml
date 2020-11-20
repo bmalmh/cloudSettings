@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
-    <option name="accentColor" value="2979ff" />
-    <option name="selectedTheme" value="ONE_LIGHT" />
+    <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="00bcd4" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="-3c097bec:172376b0722:-8000" />
     <option name="version" value="5.2.0" />
   </component>
