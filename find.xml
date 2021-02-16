@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -23,7 +24,6 @@
     <mask>_spec.rb</mask>
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*</mask>
-    <mask>*_spec.rb</mask>
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.haml</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>routing.rb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
