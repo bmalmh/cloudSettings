@@ -12,8 +12,8 @@
       <mapping pattern="show" type="PLAIN_TEXT" />
       <mapping pattern="recommendedBand" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="signed" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping pattern="wine_page_information.rb" type="Ruby" />
       <removed_mapping pattern="VivinoRenderer.rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sitemap_generation.rb" approved="true" type="PLAIN_TEXT" />
