@@ -5,9 +5,7 @@
     <keyboard-shortcut first-keystroke="meta divide" />
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
-  <action id="Console.TableResult.Copy.Csv.Settings">
-    <keyboard-shortcut first-keystroke="shift meta alt a_with_ring_above" />
-  </action>
+  <action id="Console.TableResult.Copy.Csv.Settings" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="FindNext" />
@@ -57,9 +55,7 @@
   <action id="Tool_External Tools_Prettier">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="Tool_External Tools_RuboCop">
-    <keyboard-shortcut first-keystroke="shift meta a_with_ring_above" />
-  </action>
+  <action id="Tool_External Tools_RuboCop" />
   <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
