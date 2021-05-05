@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="asd">
+      <action id="EditorCopy" />
+      <action id="EditorPaste" />
+      <typing text-keycode="46:0;67:0;76:0">.cl</typing>
+      <action id="EditorChooseLookupItemReplace" />
+    </macro>
+  </component>
+</application>
