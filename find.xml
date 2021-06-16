@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js,!*.test.js,!*.story.js" />
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
@@ -25,7 +26,6 @@
     <mask>*.rb</mask>
     <mask>*.haml</mask>
     <mask>routing.rb</mask>
-    <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>*.story.js</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb, !*_spec.rb</mask>
@@ -35,5 +35,6 @@
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.test.js</mask>
     <mask>*.js,!*.test.js</mask>
+    <mask>*.js,!*.test.js,!*.story.js</mask>
   </component>
 </application>
