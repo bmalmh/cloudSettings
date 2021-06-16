@@ -28,10 +28,10 @@
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.html.haml</mask>
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.test.js</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
+    <mask>*.html.haml</mask>
   </component>
 </application>
