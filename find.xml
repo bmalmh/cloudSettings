@@ -10,7 +10,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.js*</mask>
-    <mask>index.js</mask>
     <mask>*.presentational.js</mask>
     <mask>*haml</mask>
     <mask>*spec.rb</mask>
@@ -33,5 +32,6 @@
     <mask>*.html.haml</mask>
     <mask>*.js</mask>
     <mask>*_spec.rb</mask>
+    <mask>index.js</mask>
   </component>
 </application>
