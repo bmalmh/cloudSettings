@@ -55,7 +55,9 @@
   <action id="Tool_External Tools_Prettier">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="Tool_External Tools_RuboCop" />
+  <action id="Tool_External Tools_RuboCop">
+    <keyboard-shortcut first-keystroke="shift meta #10000e5" />
+  </action>
   <action id="org.jetbrains.plugins.ruby.gem.bundler.actions.RunBundlerInstallAction">
     <keyboard-shortcut first-keystroke="shift meta alt b" />
   </action>
