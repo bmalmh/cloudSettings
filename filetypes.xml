@@ -15,6 +15,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="signed" type="PLAIN_TEXT" />
       <mapping pattern="wine_page_information.rb" type="Ruby" />
+      <mapping ext="" type="TypeScript" />
       <removed_mapping pattern="VivinoRenderer.rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="sitemap_generation.rb" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
