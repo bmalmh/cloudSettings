@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.tsx" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -34,7 +34,7 @@
     <mask>*.story.js</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
-    <mask>*.js</mask>
     <mask>*.test.tsx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
