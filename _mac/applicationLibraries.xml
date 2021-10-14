@@ -13029,6 +13029,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/whenever-1.0.0/gemfiles" />
       </excluded>
     </library>
+    <library name="wrest (v2.2.0@383642, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/wrest-3836424f04a2/examples" />
+      </excluded>
+    </library>
     <library name="wrest (v2.2.0@6f2f58, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
