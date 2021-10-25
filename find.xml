@@ -30,10 +30,10 @@
     <mask>*.story.js</mask>
     <mask>*.test.tsx</mask>
     <mask>*.js</mask>
-    <mask>*.test.js</mask>
     <mask>*.ts</mask>
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
