@@ -11498,6 +11498,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/semantic-1.6.1/spec" />
       </excluded>
     </library>
+    <library name="semantic_range (v3.0.0, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/semantic_range-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/semantic_range-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sentry-raven (v2.13.0, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13148,6 +13159,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-4.0.0.pre.3/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-4.0.0.pre.3/package" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-4.0.0.pre.3/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webpacker (v5.4.3, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/package" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/webpacker-5.4.3/gemfiles" />
       </excluded>
     </library>
     <library name="webrick (v1.6.0, rbenv: 2.7.2) [gem]" type="rubylib">
