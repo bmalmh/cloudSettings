@@ -32,8 +32,8 @@
     <mask>*_spec.rb</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.test.js</mask>
-    <mask>*.rb</mask>
     <mask>*.tsx</mask>
+    <mask>*.rb</mask>
     <mask>*.js</mask>
   </component>
 </application>
