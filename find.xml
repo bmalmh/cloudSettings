@@ -31,9 +31,9 @@
     <mask>*.ts</mask>
     <mask>*_spec.rb</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.test.js</mask>
     <mask>*.tsx</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
