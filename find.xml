@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts,*.tsx" />
     <mask>*.mxml</mask>
     <mask>*.js*</mask>
     <mask>*.presentational.js</mask>
@@ -28,10 +29,10 @@
     <mask>*.test.tsx</mask>
     <mask>*.ts</mask>
     <mask>*_spec.rb</mask>
-    <mask>*.ts,*.tsx</mask>
     <mask>*.tsx</mask>
     <mask>*.rb</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.ts,*.tsx</mask>
   </component>
 </application>
