@@ -19,7 +19,6 @@
     <mask>*.haml</mask>
     <mask>routing.rb</mask>
     <mask>*.rb, !*_spec.rb</mask>
-    <mask>*.rb,!*_spec.rb</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>*.html.haml</mask>
@@ -35,5 +34,6 @@
     <mask>*.test.js</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.rb</mask>
+    <mask>*.rb,!*_spec.rb</mask>
   </component>
 </application>
