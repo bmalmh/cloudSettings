@@ -23,7 +23,6 @@
     <mask>*.html.haml</mask>
     <mask>index.js</mask>
     <mask>styles.js</mask>
-    <mask>*.scss</mask>
     <mask>*.story.js</mask>
     <mask>*.test.tsx</mask>
     <mask>*.ts</mask>
@@ -35,5 +34,6 @@
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.rb,!*.yml</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
