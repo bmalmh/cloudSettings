@@ -5,9 +5,9 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.rb" />
     <mask>*.presentational.js</mask>
     <mask>*haml</mask>
-    <mask>*spec.rb</mask>
     <mask>*.en.yml</mask>
     <mask>index.html.haml</mask>
     <mask>*.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.ts,*.tsx</mask>
     <mask>*.scss</mask>
     <mask>*.ts,*.tsx,*.js</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
