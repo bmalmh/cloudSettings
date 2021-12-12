@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb, *_spec.rb" />
     <mask>index.html.haml</mask>
     <mask>*controller_spec.rb</mask>
     <mask>_spec.rb</mask>
