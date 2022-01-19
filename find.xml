@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>index.html.haml</mask>
-    <mask>*controller_spec.rb</mask>
     <mask>_spec.rb</mask>
     <mask>*</mask>
     <mask>*.haml</mask>
@@ -33,5 +31,7 @@
     <mask>*_spec.rb</mask>
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*.ts,*.tsx,*.js</mask>
+    <mask>*.ts,*.tsx,*.js,*.haml</mask>
+    <mask>*.ts,*.tsx,*.js,*.jsx,*.haml</mask>
   </component>
 </application>
