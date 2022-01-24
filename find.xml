@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>_spec.rb</mask>
+    <option name="FILE_MASK" value="*.en.yml" />
     <mask>*</mask>
     <mask>*.haml</mask>
     <mask>routing.rb</mask>
@@ -33,5 +35,6 @@
     <mask>*.ts,*.tsx,*.js</mask>
     <mask>*.ts,*.tsx,*.js,*.haml</mask>
     <mask>*.ts,*.tsx,*.js,*.jsx,*.haml</mask>
+    <mask>*.en.yml</mask>
   </component>
 </application>
