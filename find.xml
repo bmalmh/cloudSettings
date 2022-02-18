@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb,!*_spec.rb" />
-    <mask>*.haml</mask>
+    <option name="FILE_MASK" value="*.ts,*.tsx,*.js,*.jsx" />
     <mask>routing.rb</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.js,!*.test.js,!*.story.js</mask>
@@ -32,7 +31,8 @@
     <mask>*.en.yml</mask>
     <mask>*.html.haml</mask>
     <mask>*.rb</mask>
-    <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
     <mask>*.rb,!*_spec.rb</mask>
+    <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
+    <mask>*.ts,*.tsx,*.js,*.jsx</mask>
   </component>
 </application>
