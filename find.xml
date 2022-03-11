@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js,!*.test.js</mask>
+    <option name="FILE_MASK" value="*.html.haml,*.rb" />
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>index.js</mask>
     <mask>styles.js</mask>
@@ -37,5 +37,6 @@
     <mask>*.ts,*.tsx,!*.js, !*.test.js</mask>
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.html.haml,*.rb</mask>
   </component>
 </application>
