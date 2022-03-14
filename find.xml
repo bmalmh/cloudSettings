@@ -7,13 +7,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>index.js</mask>
     <mask>styles.js</mask>
     <mask>*.story.js</mask>
     <mask>*.test.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.tsx</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
     <mask>*.rb,!*.yml</mask>
@@ -37,5 +37,6 @@
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.html.haml,*.rb</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
