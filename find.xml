@@ -17,7 +17,6 @@
     <mask>*.test.js</mask>
     <mask>*.rb,!*.yml</mask>
     <mask>*spec.rb</mask>
-    <mask>*.yml</mask>
     <mask>*.ts,*.ts</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.tsx, !*.test.tsx</mask>
@@ -37,5 +36,6 @@
     <mask>*_spec.rb</mask>
     <mask>*.html.haml,*.rb</mask>
     <mask>*.tsx</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
