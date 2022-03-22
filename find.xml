@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>index.js</mask>
     <mask>styles.js</mask>
@@ -25,7 +26,6 @@
     <mask>*.html.haml</mask>
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.ts,*.tsx,*.js,*.jsx</mask>
-    <mask>*.scss</mask>
     <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
     <mask>*.ts,*.tsx,!*.js, !*.test.js</mask>
     <mask>*.rb</mask>
@@ -35,5 +35,6 @@
     <mask>*_spec.rb</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
