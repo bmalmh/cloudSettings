@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.js,!*.test.js,!*.story.js</mask>
-    <mask>index.js</mask>
     <mask>styles.js</mask>
     <mask>*.story.js</mask>
     <mask>*.test.tsx</mask>
@@ -26,12 +25,13 @@
     <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
     <mask>*.ts,*.tsx,!*.js, !*.test.js</mask>
     <mask>*.rb</mask>
-    <mask>*.html.haml,*.rb</mask>
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
     <mask>*_spec.rb</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.html.haml,*.rb</mask>
+    <mask>index.js</mask>
   </component>
 </application>
