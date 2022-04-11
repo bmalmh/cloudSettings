@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*_spec.rb" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.js,!*.test.js,!*.story.js</mask>
     <mask>styles.js</mask>
     <mask>*.story.js</mask>
@@ -32,7 +32,7 @@
     <mask>*.html.haml,*.rb</mask>
     <mask>index.js</mask>
     <mask>*.rb</mask>
-    <mask>*.yml</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
