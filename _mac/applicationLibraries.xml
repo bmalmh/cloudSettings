@@ -20580,6 +20580,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cac8f68356a8/.git_tools" />
       </excluded>
     </library>
+    <library name="vivino-lib-api (v8.19.0@cb6465, rbenv: 2.7.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git_tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git_tools" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.github" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/bundler/gems/ruby-lib-api-cb6465aec0b7/.git_tools" />
+      </excluded>
+    </library>
     <library name="vivino-lib-api (v8.19.0@ce5a6c, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
