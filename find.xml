@@ -2,9 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>styles.js</mask>
-    <mask>*.story.js</mask>
+    <option name="FILE_MASK" value="*.js,*.tsx" />
     <mask>*.test.tsx</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
@@ -18,14 +19,12 @@
     <mask>*.ts,*.tsx,*.js,*.haml</mask>
     <mask>*.ts,*.tsx,*.js,*.jsx,*.haml</mask>
     <mask>*.en.yml</mask>
-    <mask>*.html.haml</mask>
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.ts,*.tsx,*.js,*.jsx</mask>
     <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
     <mask>*.ts,*.tsx,!*.js, !*.test.js</mask>
     <mask>*.tsx</mask>
     <mask>*.ts,*.tsx</mask>
-    <mask>*.scss</mask>
     <mask>*.html.haml,*.rb</mask>
     <mask>index.js</mask>
     <mask>*_spec.rb</mask>
@@ -33,5 +32,9 @@
     <mask>*.js,!*.test.js</mask>
     <mask>*.rb</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
+    <mask>*.html.haml</mask>
+    <mask>*.rb,!*_controller.rb</mask>
+    <mask>*.js,*.tsx</mask>
   </component>
 </application>
