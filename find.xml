@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.ts,*.ts</mask>
     <mask>*.tsx, !*.test.tsx</mask>
     <mask>*.rb, *_spec.rb</mask>
@@ -28,12 +29,12 @@
     <mask>*.rb,!*_controller.rb</mask>
     <mask>*.js,*.tsx</mask>
     <mask>*.test.*</mask>
-    <mask>*_spec.rb</mask>
     <mask>*.yml</mask>
     <mask>*.js,*.ts,*.tsx,!*.test.js</mask>
     <mask>*.rb,!*_spec.rb</mask>
     <mask>*.js,*.tsx,!*.test.*,!*story.*</mask>
     <mask>*.test.ts</mask>
     <mask>*</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
