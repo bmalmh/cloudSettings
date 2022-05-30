@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.ts,*.ts</mask>
     <mask>*.tsx, !*.test.tsx</mask>
     <mask>*.rb, *_spec.rb</mask>
@@ -31,7 +32,7 @@
     <mask>*.js,*.tsx,!*.test.*,!*story.*</mask>
     <mask>*.test.ts</mask>
     <mask>*</mask>
-    <mask>*_spec.rb</mask>
     <mask>*.rb,!*_spec.rb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
