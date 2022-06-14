@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*.ts,*.tsx,*.js</mask>
@@ -21,7 +19,6 @@
     <mask>*.rb</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.html.haml</mask>
     <mask>*.rb,!*_controller.rb</mask>
     <mask>*.js,*.tsx</mask>
     <mask>*.test.*</mask>
@@ -35,5 +32,6 @@
     <mask>*_js.haml</mask>
     <mask>*.js.haml</mask>
     <mask>*.js</mask>
+    <mask>*.html.haml</mask>
   </component>
 </application>
