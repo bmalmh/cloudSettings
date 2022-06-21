@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.rb, !*_spec.rb</mask>
     <mask>*.ts,*.tsx,*.js</mask>
     <mask>*.ts,*.tsx,*.js,*.haml</mask>
