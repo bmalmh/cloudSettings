@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="DashboardModalSkeleton" type="JavaScript" />
       <mapping pattern="externalLogin.js" type="JavaScript" />
-      <mapping pattern="premium-modal-button" type="PLAIN_TEXT" />
       <mapping pattern="recommendedBand" type="PLAIN_TEXT" />
+      <mapping pattern="premium-modal-button" type="PLAIN_TEXT" />
       <mapping pattern="signed_in_modal" type="PLAIN_TEXT" />
       <mapping pattern="ruby_web_development" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
