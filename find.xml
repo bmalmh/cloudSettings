@@ -30,8 +30,8 @@
     <mask>*.js.haml</mask>
     <mask>*.js</mask>
     <mask>*.html.haml</mask>
-    <mask>*.rb,!*_spec.rb</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.js,*.tsx,!*.test.*,!*story.*</mask>
+    <mask>*.rb,!*_spec.rb</mask>
   </component>
 </application>
