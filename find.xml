@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_spec.rb" />
     <mask>*.ts,*.tsx,*.js,*.jsx,*.haml</mask>
     <mask>*.en.yml</mask>
     <mask>*.ts,*.tsx,*.js,*.jsx</mask>
@@ -25,7 +26,6 @@
     <mask>*.js,*.tsx,!*.test.*,!*story.*</mask>
     <mask>*.test.ts</mask>
     <mask>*</mask>
-    <mask>*_spec.rb</mask>
     <mask>*_js.haml</mask>
     <mask>*.js.haml</mask>
     <mask>*.js</mask>
@@ -37,5 +37,6 @@
     <mask>*_spec.*</mask>
     <mask>*.test.*</mask>
     <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
   </component>
 </application>
