@@ -14,7 +14,6 @@
     <mask>*.html.haml,*.rb</mask>
     <mask>index.js</mask>
     <mask>*.js,!*.test.js</mask>
-    <mask>*.scss</mask>
     <mask>*.rb,!*_controller.rb</mask>
     <mask>*.js,*.tsx</mask>
     <mask>*.yml</mask>
@@ -35,5 +34,6 @@
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>!*.yml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
