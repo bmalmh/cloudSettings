@@ -8,7 +8,6 @@
     <mask>*.ts,*.tsx,*.js,*.jsx</mask>
     <mask>*.ts,*.tsx,*.js, !*.test.js</mask>
     <mask>*.ts,*.tsx,!*.js, !*.test.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts,*.tsx</mask>
     <mask>*.html.haml,*.rb</mask>
     <mask>index.js</mask>
@@ -35,5 +34,6 @@
     <mask>!*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.test.js</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
