@@ -18,7 +18,6 @@
     <mask>*_js.haml</mask>
     <mask>*.js.haml</mask>
     <mask>*.js</mask>
-    <mask>*.html.haml</mask>
     <mask>*.ts</mask>
     <mask>*.ts,*.js,*.tsx,!*.test.*,!*story.*</mask>
     <mask>*.rb,!*_spec.rb</mask>
@@ -27,11 +26,12 @@
     <mask>*.rb</mask>
     <mask>!*.yml</mask>
     <mask>*.test.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.haml</mask>
     <mask>*.scss</mask>
     <mask>!*.test.*, *.tsx, *.js,</mask>
     <mask>*.test.*</mask>
     <mask>*_spec.rb</mask>
+    <mask>*.tsx</mask>
+    <mask>*.html.haml</mask>
   </component>
 </application>
