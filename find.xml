@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.test.tsx" />
+    <option name="FILE_MASK" value="*.test.*" />
     <mask>*.html.haml,*.rb</mask>
     <mask>index.js</mask>
     <mask>*.js,!*.test.js</mask>
@@ -28,13 +28,13 @@
     <mask>*.haml</mask>
     <mask>*.scss</mask>
     <mask>!*.test.*, *.tsx, *.js,</mask>
-    <mask>*.test.*</mask>
     <mask>*_spec.rb</mask>
     <mask>*.tsx</mask>
     <mask>*.html.haml</mask>
     <mask>*.rb</mask>
     <mask>*.test.ts</mask>
-    <mask>*.test.tsx</mask>
     <mask>!*.test.tsx</mask>
+    <mask>*.test.tsx</mask>
+    <mask>*.test.*</mask>
   </component>
 </application>
