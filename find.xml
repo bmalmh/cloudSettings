@@ -28,10 +28,10 @@
     <mask>*_spec.rb</mask>
     <mask>*.tsx</mask>
     <mask>*.html.haml</mask>
-    <mask>*.rb</mask>
     <mask>*.test.ts</mask>
     <mask>!*.test.tsx</mask>
     <mask>*.test.tsx</mask>
     <mask>*.test.*</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
