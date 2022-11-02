@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html.haml,*.rb</mask>
+    <option name="FILE_MASK" value="!*fixtures/*, !*.snap" />
     <mask>index.js</mask>
     <mask>*.js,!*.test.js</mask>
     <mask>*.rb,!*_controller.rb</mask>
@@ -33,5 +33,6 @@
     <mask>*.html.haml</mask>
     <mask>*.test.*</mask>
     <mask>*_spec.rb</mask>
+    <mask>!*fixtures/*, !*.snap</mask>
   </component>
 </application>
