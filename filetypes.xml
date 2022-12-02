@@ -8,6 +8,7 @@
       <mapping pattern="show" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ruby_web_development" type="PLAIN_TEXT" />
+      <mapping pattern=".parcelrc" type="PLAIN_TEXT" />
       <mapping pattern="signed_in_modal" type="PLAIN_TEXT" />
       <mapping pattern="premium-modal-button" type="PLAIN_TEXT" />
       <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
