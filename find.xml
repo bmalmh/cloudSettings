@@ -19,7 +19,6 @@
     <mask>*_spec.*</mask>
     <mask>!*.yml</mask>
     <mask>*.haml</mask>
-    <mask>*.scss</mask>
     <mask>!*.test.*, *.tsx, *.js,</mask>
     <mask>*.tsx</mask>
     <mask>*.test.ts</mask>
@@ -33,5 +32,6 @@
     <mask>*.test.js</mask>
     <mask>*_spec.rb</mask>
     <mask>*.ts,*.js,*.tsx,!*.test.*,!*story.*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
